@@ -3,6 +3,8 @@
 Some code from a computing project I did in 2nd year. Some of it is mine and some is by the University of Oxford.
 Most of it is just a bunch of classes needed to do the data analysis + event reconstruction but I also added some code I used to make some of the graphs I used in my final project writeup.
 
+The data file given contains all the CDF data I used for this project.
+
 The classes folder has a bunch of classes made for taking the data from the CDF file given with the project (CdfDataFile) for each event (CdfEvent) and recording track parameters (CdfTrack) to then be plotted as helical paths (Helix).
 Using these paths we find intersections where a particle has decayed and we can use the information from its decay products to find out lots of properties about the original particle, including mass and lifetime (Vertex).
 Using the analyses classes K0SAnalysis and LambdaAnalysis we can find probable K-short mesons and Lambda baryons and plot their recorded masses and lifetimes using the Histogram class.
