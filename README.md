@@ -13,7 +13,7 @@ The Loop class is just used so you can loop over all events in the CDF data file
 
 Unrelated to my project, I also created a class named EventDisplay.
 This class takes the data from an event and plots the detected helical tracks in 2/3 dimensions.
-Given certain cuts to the momentum or impact parameter you can highlight or choose not to display the tracks that don't make the cut (I'll add some plots and the code I used to make them when I can).
+Given certain cuts to the momentum or impact parameter you can highlight tracks that make the cut or choose not to display the tracks that don't make the cut (I'll add some plots and the code I used to make them when I can).
 
 The tests folder just contains some tests I used to plot helical tracks or plots of the mass/lifetime of the particles I was looking for (I'll also add these plots when I can).
 I also performed a chi-squared fit of the lifetimes to an exponential distribution to find an estimate of the mean lifetime and the plot of the chi-squared value can be found in CO03_tests4.
