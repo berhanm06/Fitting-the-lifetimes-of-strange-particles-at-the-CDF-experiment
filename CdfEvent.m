@@ -1,4 +1,4 @@
-% Code made by University of Oxford
+% Code made by the University of Oxford
 
 classdef CdfEvent < handle
     % CdfEvent contains CDF event data
