@@ -1,4 +1,4 @@
-% Code made by University of Oxford
+% Code made by the University of Oxford
 
 classdef Histogram < handle
     % Histogram accumulates data in pre-defined bins
