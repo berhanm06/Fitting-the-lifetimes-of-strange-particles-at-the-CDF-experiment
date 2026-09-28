@@ -1,3 +1,5 @@
+% Code made by the University of Oxford
+
 classdef Analysis < handle & matlab.mixin.Heterogeneous
     % Analysis prototype class for data analysis.
     %   could be an abstract class or even an interface
