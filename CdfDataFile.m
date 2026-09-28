@@ -1,4 +1,4 @@
-% Code made by University of Oxford
+% Code made by the University of Oxford
 
 classdef CdfDataFile < handle
     % CdfDataFile wraps CDF track data file.
