@@ -29,3 +29,6 @@ I have added comments if the code is not made by me but just to reiterate, the c
 * All tests
 
 Everything else is credited to the University of Oxford.
+
+
+*(30/09/26) I've added my report and logbook to this repo but the logbook is especially dense to read since I was dumping most of my code in each section so I'll try and add diagrams and their code later and hopefully then I can remove the logbook and this text...*
